@@ -1,0 +1,60 @@
+body
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+#form
+{
+    border: solid 1px #000000;
+    border-radius: 10px;
+    width: 520px;
+    height: 150px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 200px;
+    padding: 10px;
+}
+
+.input
+{
+    width: auto;
+    font-size: 18px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+#instrukcja
+{
+    border: solid 1px #000000;
+    border-radius: 10px;
+    width: 800px;
+    height: 650px;
+    float: right;
+    margin-right: 50px;
+    margin-top: 20px;
+    padding: 10px
+}
+
+#zdjecie_dokumentu
+{
+    border-bottom: solid 1px #000000;
+}
+
+#zdjecie_kartki
+{
+    border-bottom: solid 1px #000000;
+}
+
+#zdjecie_kartki img
+{
+    width: 200px;
+}
+
+#nagranie_twarzy
+{
+}
+
+#nagranie_twarzy img
+{
+    height: 150px;
+}
